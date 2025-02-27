@@ -1,12 +1,12 @@
 industry,top_tickers
-CRSP US Consumer Discretionary Index,"AMZN, TSLA, HD, WMT, MCD, BKNG, LOW, TJX, UBER, SBUX"
-CRSP US Consumer Staples Index,"COST, PG, KO, PEP, PM, MO, MDLZ, CL, KMB, KVUE"
-CRSP US Energy Index,"XOM, CVX, COP, EOG, WMB, OKE, SLB, KMI, PSX, LNG"
-CRSP US Financials Index,"BRK.A/BRK.B, JPM, V, MA, BAC, WFC, GS, SPGI, MS, AXP"
-CRSP US Healthcare Index,"LLY, UNH, JNJ, ABBV, MRK, TMO, ABT, ISRG, PFE, DHR"
-CRSP US Industrials Index,"ACN, CAT, GE, RTX, HON, UNP, BA, ETN, ADP, LMT"
-CRSP US Materials Index,"LIN, SHW, APD, ECL, FCX, NEM, VMC, MLM, DD, DOW"
-CRSP US Media & Communications Index,"GOOGL, META, NFLX, DIS, T, VZ, CMCSA, TMUS, EA, RBLX"
-CRSP US Real Estate & REITs Index,"PLD, EQIX, AMT, WELL, DLR, SPG, PSA, O, CBRE, CCI"
-CRSP US Technology Index,"AAPL, MSFT, NVDA, AVGO, CRM, ORCL, NOW, CSCO, IBM, AMD"
-CRSP US Utilities Index,"NEE, SO, DUK, CEG, SRE, AEP, VST, D, PCG, PEG"
+CRSP US Consumer Discretionary Index,AMZN  TSLA  HD  WMT  MCD  BKNG  LOW  TJX  UBER  SBUX
+CRSP US Consumer Staples Index,COST  PG  KO  PEP  PM  MO  MDLZ  CL  KMB  KVUE
+CRSP US Energy Index,XOM  CVX  COP  EOG  WMB  OKE  SLB  KMI  PSX  LNG
+CRSP US Financials Index,BRK.A/BRK.B  JPM  V  MA  BAC  WFC  GS  SPGI  MS  AXP
+CRSP US Healthcare Index,LLY  UNH  JNJ  ABBV  MRK  TMO  ABT  ISRG  PFE  DHR
+CRSP US Industrials Index,ACN  CAT  GE  RTX  HON  UNP  BA  ETN  ADP  LMT
+CRSP US Materials Index,LIN  SHW  APD  ECL  FCX  NEM  VMC  MLM  DD  DOW
+CRSP US Media & Communications Index,GOOGL  META  NFLX  DIS  T  VZ  CMCSA  TMUS  EA  RBLX
+CRSP US Real Estate & REITs Index,PLD  EQIX  AMT  WELL  DLR  SPG  PSA  O  CBRE  CCI
+CRSP US Technology Index,AAPL  MSFT  NVDA  AVGO  CRM  ORCL  NOW  CSCO  IBM  AMD
+CRSP US Utilities Index,NEE  SO  DUK  CEG  SRE  AEP  VST  D  PCG  PEG
